@@ -58,6 +58,6 @@
 ## Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wadalkarsaloni"/>
 
-![Altaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=wadalkarsaloni&show_icons=true&theme=radical)
+![Saloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=wadalkarsaloni&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadalkarsaloni&show_progress=true)
