@@ -26,10 +26,10 @@
 <h5>You can reach me at 
 
 
-  <img src="https://github.com/wadalkarsaloni/wadalkarsaloni/assets/101108751/0ad95d8a-ac22-4d38-b693-0a9c590c028c" width="20" height="20">  https://wa.me/+919112625752
+<img src="https://github.com/Altafk6198/Altafk6198/assets/101108751/aa8cadb9-157a-4fcc-a92a-f55f4fbf66ba" height="20" width="20">  https://wa.me/+919112625752
 
 
-<img src="https://github.com/wadalkarsaloni/wadalkarsaloni/assets/101108751/3deac7ec-9549-4ab6-84c1-81783d5bf561" height="20" width="20">  saloniwadalkar09@gmail.com </h5>
+<img src="https://github.com/Altafk6198/Altafk6198/assets/101108751/3deac7ec-9549-4ab6-84c1-81783d5bf561" height="20" width="20">  saloniwadalkar09@gmail.com </h5>
 
 ### ⚡ Fun fact
 <h5>I love Dancing and Sketching, Travelling and exploring new places.</h5>
@@ -49,11 +49,11 @@
 
 #### LinkedIn
 
-<img src="https://github.com/wadalkarsaloni/wadalkarsaloni/assets/101108751/aa8cadb9-157a-4fcc-a92a-f55f4fbf66ba" height="20" width="20">  https://www.linkedin.com/in/saloni-w-887ba5215/
+<img src="https://github.com/Altafk6198/Altafk6198/assets/101108751/aa8cadb9-157a-4fcc-a92a-f55f4fbf66ba" height="20" width="20">  https://www.linkedin.com/in/saloni-w-887ba5215/
 
 #### Instagram
 
-<img src="https://github.com/wadalkarsaloni/wadalkarsaloni/assets/101108751/47c73da6-9d26-4322-836f-82a9b4249d3e" height="20" width="20">  https://www.instagram.com/saloni_wadalkar
+<img src="https://github.com/Altafk6198/Altafk6198/assets/101108751/47c73da6-9d26-4322-836f-82a9b4249d3e" height="20" width="20">  https://www.instagram.com/saloni_wadalkar
 
 ## Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wadalkarsaloni"/>
